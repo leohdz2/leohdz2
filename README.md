@@ -1,4 +1,6 @@
 ## GRUPO 2001 Fix & Solutions 👋
+#Dedicados a la implementacion de tecnologias de la Informatica y Comunicaciones
+
 
 
 
