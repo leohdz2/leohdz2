@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Tunel</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Audiowide&family=Caveat:wght@400..700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <h1 class="caveat-h1"> El Tunel</h1>
+        <div class=" caja_hed">
+            <div class=" buscar">
+                Buscar
+            </div>
+            <div class="lupa">
+                <img src="imagenes/icons-búsqueda-30.png">
+            </div>
+            <div class=" acc_icono">
+                <img src="imagenes/icon-user-30.png">
+                <img src="imagenes/icons8-corazones-30.png">
+                <img src="imagenes/icons-compras-30.png">
+
+
+            </div>
+        </div>
+    </header>
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Libros</a>
+        <a href="#">Lo más leído</a>
+        <a href="#">Accesorios</a>
+        <a href="#">sucursal</a>
+
+    </nav>
